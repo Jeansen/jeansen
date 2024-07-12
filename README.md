@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Jeansen/jeansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marcel and I am curious about anything related to Cloud Native technologies. My favorite language ist Kotlin/Native. I also do a lot of shell scripting.
 
-Here are some ideas to get you started:
+I am a Certified Kubernetes Application Developer (CKAD) |and a Certified Kubernetes Administrator (CKA)  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=jeansen&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="left" style="width: 100%" />
+
+
+
+![Profile views counter](https://komarev.com/ghpvc/?username=jeansen&&style=flat-square)  
+  
